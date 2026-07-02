@@ -4,10 +4,12 @@ I am an unconventional full-stack builder based in India (IST). I bypass standar
 
 🏗️ Core Engineering Focus
 When I build, I prioritize strict data integrity, isolated modular components, and absolute execution speed. 
-* **Frontend Architecture:** Next.js, React Native, TypeScript, Tailwind CSS
-* **Backend & State:** Node.js, GraphQL, REST APIs
-* **Database & Auth:** PostgreSQL, Supabase, WatermelonDB / SQLite (Offline-first)
-* **Workflow:** Cursor, AI-native development pipelines, aggressive Git iteration
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 --- --- ---
 
